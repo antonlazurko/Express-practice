@@ -1,0 +1,23 @@
+{
+  "name": "Express-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonlazurko/Express-practice.git"
+  },
+  "keywords": [],
+  "author": "anton <YOUR_EMAILnpm config set init.author.name YOUR_NAME\nnpm config set init.author.email YOUR_EMAIL>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonlazurko/Express-practice/issues"
+  },
+  "homepage": "https://github.com/antonlazurko/Express-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
